@@ -1,0 +1,21 @@
+sudo apt-get update
+sudo install python3.7
+sudo install python3-pip
+pip3 install awscli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
